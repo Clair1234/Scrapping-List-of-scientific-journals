@@ -26,4 +26,4 @@ cd project
 If you are on VS Code run (Ctrl+Alt+N)
 
 ### Description
-Once you run the project, it will try to go through the (wikepedia page)[https://en.wikipedia.org/wiki/List_of_scientific_journals] 
+Once you run the project, it will try to go through the (wikepedia page](https://en.wikipedia.org/wiki/List_of_scientific_journals) 
