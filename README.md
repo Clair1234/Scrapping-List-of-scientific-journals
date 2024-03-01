@@ -33,4 +33,5 @@ Two .json files will be as outputs:
 
 To evaluate the program, there is the variable STATISTICS.
 Each page of the [List of Scientific journals](https://en.wikipedia.org/wiki/List_of_scientific_journals) is assumed to have the way of being built in HTML.
+
 The HTML part used as an anchor of the diferent page is the infoxbox on the right of the page ([See example page](https://en.wikipedia.org/wiki/The_Astronomical_Journal))
