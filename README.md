@@ -48,12 +48,12 @@ STATISTICS = {
 }
 ```
 where :
-* 'journals_checked' is the number of journals chekced
-* 'discipline_null' is the number of journals with no Discipline in the infobox
-* 'language_null' is the number of journals with no Language in the infobox
-* 'history_null' is the number of journals with no History in the infobox
-* 'publisher_null' is the number of journals with no Publisher in the infobox
-* 'frequency_null' is the number of journals with no Frequency in the infobox
+* `journals_checked` is the number of journals chekced
+* `discipline_null` is the number of journals with no Discipline in the infobox
+* `language_null` is the number of journals with no Language in the infobox
+* `history_null` is the number of journals with no History in the infobox
+* `publisher_null` is the number of journals with no Publisher in the infobox
+* `frequency_null` is the number of journals with no Frequency in the infobox
 
 As of March, 1st 2024, the STATISTICS variable is :
 ```
