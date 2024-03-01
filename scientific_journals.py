@@ -94,7 +94,7 @@ for type_ in types:
     
 import json
 
-with open('all_fields.json', 'w') as f:
+with open('all_journals.json', 'w') as f:
     json.dump(magazines, f)
     
 
@@ -178,7 +178,7 @@ STEP 3 - SCRAPING DATA AS A WHOLE
 import json
 import time
 
-with open('./all_fields.json', 'r') as f:
+with open('./all_journals.json', 'r') as f:
     fields = json.load(f)
         
 def _parse_in_depth(element, name):
