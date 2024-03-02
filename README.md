@@ -64,3 +64,5 @@ As of March, 1st 2024, the STATISTICS variable is :
  'publisher_null': 13,
  'frequency_null': 13}
 ```
+From this we can see that out of the 77 pages checked out, 13 of them do not have a discipline section, language section, history section, publisher section and frequency section in an infobox (table on the right of the page.
+Upon looking at the pages without those information, those pages do not have the infobox table at all.
