@@ -5,10 +5,11 @@ First project of web scrapping on Wikipedia's page 'List of scientific journals'
 ### Libraries used
     requests  
     BeautifulSoup 
-They are included in the Anaconda distribution. Else ypu have to install them
+They are included in the Anaconda distribution. Else you have to install them
 
 ### Else
-You need a python environnement 
+You need a python environnement.
+
 As it is scrapping a web page you need to have a good internet connection
 
 ## TODO
