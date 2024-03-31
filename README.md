@@ -55,6 +55,7 @@ where :
 * `publisher_null` is the number of journals with no Publisher in the infobox
 * `frequency_null` is the number of journals with no Frequency in the infobox
 
+### Output
 As of March, 1st 2024, the STATISTICS variable is :
 ```
 {'journals_checked': 77,
